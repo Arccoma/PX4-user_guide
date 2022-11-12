@@ -106,7 +106,7 @@ If moving in the horizontal plane the vehicle will continue until any momentum i
 If the wind blows the aircraft will drift in the direction of the wind.
 
 :::tip
-*Attitude mode* is the safest non-GPS manual mode for new fliers. It is just like [Manual/Stabilized](#manual_stabilized_mc) mode but additionally stabilizes the vehicle altitude when the sticks are released.
+*Altitude mode* is the safest non-GPS manual mode for new fliers. It is just like [Manual/Stabilized](#manual_stabilized_mc) mode but additionally stabilizes the vehicle altitude when the sticks are released.
 :::
 
 ![MC Altitude Mode](../../assets/flight_modes/altitude_MC.png)
@@ -317,7 +317,7 @@ When sticks are centered the vehicle will stop rotating, but remain in its curre
 
 :::tip
 This is the hardest mode to fly, because nothing is stabilised.
-Unlike [Acro Mode](#acro_fw) if the RP stick is centered the vehicle will not automatically stop rotating around the axis - the pilot actually has to move the stick to apply force in the other direction.
+Unlike [Acro Mode](#acro_fw) if the RC stick is centered the vehicle will not automatically stop rotating around the axis - the pilot actually has to move the stick to apply force in the other direction.
 :::
 
 :::note
