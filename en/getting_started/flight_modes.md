@@ -58,7 +58,7 @@ Rover/Boat:
 
 :::note
 Only manual and mission modes are supported.
-YOu can switch to any other mode but the behaviour will be the same as for manual mode.
+You can switch to any other mode but the behaviour will be the same as for manual mode.
 :::
 
 
