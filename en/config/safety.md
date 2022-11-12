@@ -70,7 +70,7 @@ The RC Loss failsafe may be triggered if the RC transmitter link is lost in manu
 
 Generally you will only want to set the _Failsafe_ action:
 
-- The _RC Lost Timeout_ is the time after data stops updating before the link is considered lost.
+- The _RC Loss Timeout_ is the time after data stops updating before the link is considered lost.
   This must be kept short because the vehicle will continue to fly using the old RC data until the timeout triggers.
 - You may need to modify the [COM_RCL_ACT_T](#COM_RCL_ACT_T) parameter.
   This is a delay after the link is lost and before the failsafe action is triggered in which the vehicle waits in hold mode for the RC system to reconnect.
